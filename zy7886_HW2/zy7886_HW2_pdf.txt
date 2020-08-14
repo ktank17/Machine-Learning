@@ -1,0 +1,7 @@
+Answer 1 : feature 9 gives the best performance.
+
+Answer 2: Eliminated features with zero.
+
+Answer 3: Assumed all the variance are zero
+
+ANswer 4: Comapred and got latest as highest
